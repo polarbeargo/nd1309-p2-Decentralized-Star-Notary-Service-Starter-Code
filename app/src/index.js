@@ -51,8 +51,6 @@ const App = {
       App.setStatus("Star " + lookid + " does not exist.");
     }
   }
-  }
-
 };
 
 window.App = App;
